@@ -7,10 +7,11 @@ export default function Home() {
     <div className={styles.container}>
       <Head>
         <title>Meet Fluffos</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/dog-logo.png" />
       </Head>
 
       <main className={styles.main}>
+        <div></div>
         <div>Get Started</div>
       </main>
 

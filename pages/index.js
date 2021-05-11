@@ -11,7 +11,12 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <div></div>
+        <Image
+          src="/dog-logo.png"
+          alt="Dog Icon"
+          height={100}
+          width={100}
+        ></Image>
         <div>Get Started</div>
       </main>
 
